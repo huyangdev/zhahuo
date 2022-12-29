@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T09:57:27.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="gbWeQqXDOY3jVpU1SXsA" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T12:43:51.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="vezL4RRnnQp_OE3U7stq" type="github">
   <diagram id="2l6POookc13yUhbBXWqV" name="第 1 页">
     <mxGraphModel dx="1467" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,25 +34,25 @@
             <mxPoint x="496" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="330" y="298" width="220" height="104" as="geometry" />
         </mxCell>
         <mxCell id="GEyLh_Zw_DPHrhrjRqtt-13" value="运行时数据区（Runtime Data Area）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="331" y="302" width="215" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-14" value="方法区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-14" value="方法区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="328" width="49" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-15" value="Java 栈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-15" value="Java 栈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="399" y="328" width="49" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-16" value="本地方法区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-16" value="本地方法区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="461" y="328" width="69" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-17" value="堆" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-17" value="堆" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="368" width="49" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-18" value="程序计数器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="GEyLh_Zw_DPHrhrjRqtt-18" value="程序计数器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="397" y="368" width="132" height="27" as="geometry" />
         </mxCell>
         <mxCell id="GEyLh_Zw_DPHrhrjRqtt-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=3.8095238095238093;endSize=2.6809523809523808;endWidth=10.56689342403628;" edge="1" parent="1">
