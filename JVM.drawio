@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-02T15:56:26.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="I0R2jNb-yY-sm-blyOLj" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-07T12:46:25.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="CEM8ED3s60o84Nvw9I0h" version="20.7.4" type="github">
   <diagram id="2l6POookc13yUhbBXWqV" name="第 1 页">
-    <mxGraphModel dx="1082" dy="408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="371" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,11 +214,35 @@
         <mxCell id="VM4BvxP8CKEREufvAeqi-17" value="Class Loader SubSystem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-579" y="56" width="152" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EeLXX2SzU0Qt9uE2UFXB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=66.12244897959184;exitDy=55.49586776859504;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VM4BvxP8CKEREufvAeqi-1" target="VM4BvxP8CKEREufvAeqi-5">
+        <mxCell id="EeLXX2SzU0Qt9uE2UFXB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=66.12244897959184;exitDy=55.49586776859504;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VM4BvxP8CKEREufvAeqi-1" target="VM4BvxP8CKEREufvAeqi-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EeLXX2SzU0Qt9uE2UFXB-2" value="Class file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EeLXX2SzU0Qt9uE2UFXB-2" value="Class file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-816" y="54" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-1" value="heap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934" y="233" width="80" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-2" value="方法区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934" y="431" width="80" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="287" width="50" height="114.42" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-4" value="线程A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="871" y="290" width="48" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="943" y="287" width="50" height="114.42" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-6" value="线程B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="943" y="290" width="48" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="287" width="50" height="114.42" as="geometry" />
+        </mxCell>
+        <mxCell id="VKvmCvbSvPUDRWBx-Uox-8" value="线程C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1014" y="290" width="48" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
