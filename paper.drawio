@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T09:03:28.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_LlyLb9bKGGxC0x40MRE" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T09:04:42.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="w-rvSZ4wdC7dETJbxp1o" version="20.8.23" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1706" dy="500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-46" value="RE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-46" value="RF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="48.12" y="866" width="35" height="18" as="geometry" />
         </mxCell>
         <mxCell id="JSpkfo44TlgN4Q5y5MkQ-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -309,10 +309,25 @@
           <mxGeometry x="303.5" y="940" width="131" height="17" as="geometry" />
         </mxCell>
         <mxCell id="JSpkfo44TlgN4Q5y5MkQ-96" value="PA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="247" y="903" width="35" height="18" as="geometry" />
+          <mxGeometry x="247" y="896" width="35" height="18" as="geometry" />
         </mxCell>
         <mxCell id="JSpkfo44TlgN4Q5y5MkQ-97" value="Position awareness" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="298" y="903.5" width="142" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-98" value="SE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="247" y="939" width="35" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-99" value="SA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="247" y="962" width="35" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-100" value="Structure awareness" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="296" y="963" width="142" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-101" value="RE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1001" width="35" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JSpkfo44TlgN4Q5y5MkQ-102" value="raw feature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="296" y="1001" width="142" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
