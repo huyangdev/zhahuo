@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T12:02:16.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fDNIj2rIIjZoRJX4G3ac" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T12:06:39.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jEJZK01UfeajAqoXfzZ_" version="21.0.2" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1498" dy="388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -708,7 +708,7 @@
           <mxGeometry x="1614" y="429" width="36" height="19" as="geometry" />
         </mxCell>
         <mxCell id="F2B-77sHp320KuxtsqF9-34" value="China" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1118" y="527" width="37.5" height="13.5" as="geometry" />
+          <mxGeometry x="1120" y="533" width="37.5" height="13.5" as="geometry" />
         </mxCell>
         <mxCell id="F2B-77sHp320KuxtsqF9-46" value="Morther" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="F2B-77sHp320KuxtsqF9-51" source="F2B-77sHp320KuxtsqF9-33">
           <mxGeometry relative="1" as="geometry">
@@ -746,6 +746,17 @@
         </mxCell>
         <mxCell id="F2B-77sHp320KuxtsqF9-60" value="US" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1728" y="421" width="29.5" height="13.5" as="geometry" />
+        </mxCell>
+        <mxCell id="F2B-77sHp320KuxtsqF9-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.427;entryY=1.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F2B-77sHp320KuxtsqF9-62" target="F2B-77sHp320KuxtsqF9-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F2B-77sHp320KuxtsqF9-64" value="established" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F2B-77sHp320KuxtsqF9-63">
+          <mxGeometry x="-0.1593" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2B-77sHp320KuxtsqF9-62" value="Nationality Law" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="585" width="73" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
