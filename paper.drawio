@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T09:49:18.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8dRlT4QeHjF4aOWvXgZZ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T09:51:12.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="isfAVIE9UOyQSiqgQOiX" version="21.0.2" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1506" dy="402" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -804,10 +804,10 @@
           <mxGeometry x="1247" y="852.64" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-6" value="制造工程科" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1396" y="738.21" width="58" height="58" as="geometry" />
+          <mxGeometry x="1353" y="738.21" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-7" value="设备开发部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="852.64" width="58" height="58" as="geometry" />
+          <mxGeometry x="1347" y="852.64" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1031" y="659.38" width="13" height="13" as="geometry" />
@@ -822,16 +822,16 @@
           <mxGeometry x="1052" y="684.09" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="659.38" width="13" height="13" as="geometry" />
+          <mxGeometry x="1243" y="651.36" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-22" value="处理方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1336" y="654" width="60" height="24.12" as="geometry" />
+          <mxGeometry x="1264" y="645.98" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1315" y="691.75" width="13" height="13" as="geometry" />
+          <mxGeometry x="1243" y="683.73" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-24" value="责任部门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1336" y="686.37" width="60" height="24.12" as="geometry" />
+          <mxGeometry x="1264" y="678.35" width="60" height="24.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
