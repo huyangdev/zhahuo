@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T09:42:46.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="26lv79CWx0XrfwJrriTo" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T09:44:05.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i04hOWzoLqJMOKteFk_V" version="21.0.2" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1651" dy="489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -772,31 +772,31 @@
         <mxCell id="3LqpbiOOjWD5rwV12cHP-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LqpbiOOjWD5rwV12cHP-2" target="3LqpbiOOjWD5rwV12cHP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-2" value="功率测试" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-2" value="功率测试" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="993" y="737.43" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LqpbiOOjWD5rwV12cHP-3" target="3LqpbiOOjWD5rwV12cHP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-3" value="热熔工位" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-3" value="热熔工位" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="993" y="846" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LqpbiOOjWD5rwV12cHP-4" target="3LqpbiOOjWD5rwV12cHP-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-4" value="断电复位" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-4" value="断电复位" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1249" y="738.21" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3LqpbiOOjWD5rwV12cHP-5" target="3LqpbiOOjWD5rwV12cHP-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-5" value="排查线路重新压线" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-5" value="排查线路重新压线" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1247" y="852.64" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-6" value="制造工程科" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-6" value="制造工程科" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1396" y="738.21" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-7" value="设备开发部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-7" value="设备开发部" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1390" y="852.64" width="58" height="58" as="geometry" />
         </mxCell>
       </root>
