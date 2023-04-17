@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T13:39:23.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X7uAGR3anwGAJuB5fSyX" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T13:48:20.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Ze6D-VcezPnXrcLMZFB6" version="21.0.6" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
-    <mxGraphModel dx="1881" dy="695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1986" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VTnmzprxtKKbrYUlBzAS-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTnmzprxtKKbrYUlBzAS-126" target="VTnmzprxtKKbrYUlBzAS-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTnmzprxtKKbrYUlBzAS-126" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-704" y="1756" width="332" height="357" as="geometry" />
+        </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-28" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="974" y="869" width="485" height="73" as="geometry" />
         </mxCell>
@@ -1193,7 +1199,7 @@
             <mxPoint x="-537.06" y="1837.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTnmzprxtKKbrYUlBzAS-87" value="Multi-head Attention" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;" vertex="1" parent="1">
+        <mxCell id="VTnmzprxtKKbrYUlBzAS-87" value="Multi-head attention mechanism fusing relation and structure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;" vertex="1" parent="1">
           <mxGeometry x="-687.06" y="1862.75" width="294" height="59" as="geometry" />
         </mxCell>
         <mxCell id="VTnmzprxtKKbrYUlBzAS-90" value="Feed forward" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;" vertex="1" parent="1">
@@ -1303,6 +1309,9 @@
         </mxCell>
         <mxCell id="VTnmzprxtKKbrYUlBzAS-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTnmzprxtKKbrYUlBzAS-111" target="VTnmzprxtKKbrYUlBzAS-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VTnmzprxtKKbrYUlBzAS-155" value="Decoder&amp;nbsp;for Sequence&amp;nbsp;&lt;div&gt;Generation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="-686.25" y="1658" width="294" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
