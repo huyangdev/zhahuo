@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T05:23:23.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="63lmQ8-rRuha9CMuQad0" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T05:30:16.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MYht1JqNpeVpbP_SCM9G" version="21.1.8" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1600" dy="456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -853,16 +853,16 @@
           <mxGeometry x="1265" y="684.09" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-29" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="865" y="810.23" width="30" height="60" as="geometry" />
+          <mxGeometry x="891" y="818.13" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-31" value="伺服报警的解决方案是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="834" y="773" width="106.98" height="30" as="geometry" />
+          <mxGeometry x="860" y="780.9" width="106.98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-33" value="Rule1 ：Solution(伺服报警,断电复位)&amp;nbsp;= Show(功率测试,伺服报警) ^ Solution(伺服报警,断电复位) ^ Solution(伺服报警,排查线路重新压线)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="834" y="956.25" width="736" height="34" as="geometry" />
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-33" value="Rule1 ：Solution(X,Y1)&amp;nbsp;= Show(X1,X) ^ Solution(X,Y1) ^ Solution(X,Y2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="974" y="952" width="485" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="3LqpbiOOjWD5rwV12cHP-41" value="Rule2 ：Solution(伺服报警,排查线路重新压线)&amp;nbsp;= Show(热熔工位,伺服报警) ^ Solution(伺服报警,断电复位) ^ Solution(伺服报警,排查线路重新压线)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="838" y="995" width="785" height="34" as="geometry" />
+        <mxCell id="3LqpbiOOjWD5rwV12cHP-41" value="Rule2 ：Solution(X,Y2)&amp;nbsp;= Show(X2,X) ^ Solution(X,Y1) ^ Solution(X,Y2)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="981.63" y="991.25" width="469.75" height="34" as="geometry" />
         </mxCell>
         <mxCell id="aOIZcdQtcfWfUdTbXFtz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aOIZcdQtcfWfUdTbXFtz-6" target="aOIZcdQtcfWfUdTbXFtz-8" edge="1">
           <mxGeometry relative="1" as="geometry">
