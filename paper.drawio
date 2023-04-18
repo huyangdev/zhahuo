@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T05:20:54.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gE5pDGo3BEUU-J98o7Tb" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T05:22:59.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sJgNyggQP0MOEsdAi5WW" version="21.1.8" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1600" dy="456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1369,6 +1369,21 @@
         </mxCell>
         <mxCell id="VTnmzprxtKKbrYUlBzAS-204" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-120.13217170692099" y="1937.31" width="36.88037852648671" height="36.88037852648671" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-1" value="X1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="738.35" width="30" height="21.16" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-2" value="X2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1013" y="879.97" width="30" height="21.16" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-3" value="X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="810.23" width="30" height="21.16" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-4" value="Y1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1263" y="742.01" width="30" height="21.16" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-5" value="Y2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1257" y="873.4699999999999" width="30" height="21.16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
