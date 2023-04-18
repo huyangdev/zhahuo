@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T05:31:27.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S8LXQTtfcpO3Tjbxnr3t" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T05:46:42.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="D-tBEcmp1pq6fJZVY0S9" version="21.1.8" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
-    <mxGraphModel dx="1600" dy="456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="913" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1384,6 +1384,30 @@
         </mxCell>
         <mxCell id="TPwf2LrWF7GEiZcC9Wu_-5" value="Y2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1257" y="873.4699999999999" width="30" height="21.16" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-6" value="Rule&amp;nbsp; Probability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="893.44" y="1985.25" width="287" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="890.997828293079" y="1952.56" width="36.88037852648671" height="36.88037852648671" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="933.997828293079" y="1952.56" width="36.88037852648671" height="36.88037852648671" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="977.4378282930791" y="1952.56" width="36.88037852648671" height="36.88037852648671" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1020.4378282930791" y="1952.56" width="36.88037852648671" height="36.88037852648671" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1066.87" y="1952.56" width="37.57" height="37.57" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1109.8678282930791" y="1952.56" width="36.88037852648671" height="36.88037852648671" as="geometry" />
+        </mxCell>
+        <mxCell id="TPwf2LrWF7GEiZcC9Wu_-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1153.307828293079" y="1952.56" width="36.88037852648671" height="36.88037852648671" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
