@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T05:30:16.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MYht1JqNpeVpbP_SCM9G" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T05:31:27.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="S8LXQTtfcpO3Tjbxnr3t" version="21.1.8" type="github">
   <diagram name="第 1 页" id="OIRu5DMD7ElwCjBqJBQU">
     <mxGraphModel dx="1600" dy="456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -829,28 +829,28 @@
           <mxGeometry x="1374.25" y="876.5" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1031" y="659.38" width="13" height="13" as="geometry" />
+          <mxGeometry x="981.63" y="702.66" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-18" value="生产工序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1052" y="654" width="60" height="24.12" as="geometry" />
+          <mxGeometry x="1002.63" y="697.28" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1031" y="689.47" width="13" height="13" as="geometry" />
+          <mxGeometry x="1109.5" y="699.61" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-20" value="故障现象" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1052" y="684.09" width="60" height="24.12" as="geometry" />
+          <mxGeometry x="1130.5" y="694.23" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1244" y="657.1" width="13" height="13" as="geometry" />
+          <mxGeometry x="1235" y="700.38" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-22" value="处理方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="651.72" width="60" height="24.12" as="geometry" />
+          <mxGeometry x="1256" y="695" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1244" y="689.47" width="13" height="13" as="geometry" />
+          <mxGeometry x="1370.38" y="700.38" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-24" value="责任部门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="684.09" width="60" height="24.12" as="geometry" />
+          <mxGeometry x="1391.38" y="695" width="60" height="24.12" as="geometry" />
         </mxCell>
         <mxCell id="3LqpbiOOjWD5rwV12cHP-29" value="Worker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="891" y="818.13" width="30" height="60" as="geometry" />
